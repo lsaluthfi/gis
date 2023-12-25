@@ -1,11 +1,13 @@
 {
-   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Polda Sulsel"
+        },
+        "geometry": {
+          "coordinates": [
           [
             [
               119.51381859928125,
