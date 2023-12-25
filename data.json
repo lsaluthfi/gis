@@ -59,7 +59,7 @@
         ],
         "type": "Point"
         }
-      }
+      },
         {
         "type": "Feature",
         "properties": {
@@ -106,7 +106,7 @@
         ],
         "type": "LineString"
         }
-      }
+      },
         {
         "type": "Feature",
         "properties": {
@@ -139,7 +139,7 @@
         ],
         "type": "Polygon"
         }
-      }
+      },
           {
         "type": "Feature",
         "properties": {
