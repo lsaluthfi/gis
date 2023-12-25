@@ -107,5 +107,51 @@
         "type": "LineString"
         }
       }
+        {
+        "type": "Feature",
+        "properties": {
+          "name": "Balai Latihan Transmigrasi Makassar"
+        },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              119.51771872144127,
+              -5.096252164113224
+            ],
+            [
+              119.5181151252653,
+              -5.096470734442875
+            ],
+            [
+              119.51849737181027,
+              -5.095800921907511
+            ],
+            [
+              119.5180301815879,
+              -5.095515370034761
+            ],
+            [
+              119.51771872144127,
+              -5.096252164113224
+            ]
+          ]
+        ],
+        "type": "Polygon"
+        }
+      }
+          {
+        "type": "Feature",
+        "properties": {
+          "name": "Thibun Nabawi Medical Centre Makassar"
+        },
+      "geometry": {
+        "coordinates": [
+          119.51686669131732,
+          -5.095895562507991
+        ],
+        "type": "Point"
+        }
+      }
     ]
   }
