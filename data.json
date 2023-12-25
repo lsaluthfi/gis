@@ -1186,12 +1186,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "RS Ibnu Sina Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.44614700739294,
+            -5.139868613988469
           ],
           "type": "Point"
         }
@@ -1199,12 +1199,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Panakkukang Square Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.44839157879801,
+            -5.157980459509787
           ],
           "type": "Point"
         }
@@ -1212,12 +1212,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "RS Hermina Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.4575518503795,
+            -5.162847651294996
           ],
           "type": "Point"
         }
@@ -1225,12 +1225,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Lucky Inn & Cafe Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.45496029331713,
+            -5.160412010990115
           ],
           "type": "Point"
         }
@@ -1238,12 +1238,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Pasar Antang Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.47896280293315,
+            -5.1656882437551275
           ],
           "type": "Point"
         }
