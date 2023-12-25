@@ -203,12 +203,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "SMK Kehutanan Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.52060851626698,
+            -5.085934480609723
           ],
           "type": "Point"
         }
@@ -216,12 +216,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Balai Pengkajian Teknologi Pertanian Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.52100604876671,
+            -5.083908289785157
           ],
           "type": "Point"
         }
@@ -229,25 +229,45 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Indogrosir Biringkanaya Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            [
+              [
+                119.52271804882781,
+                -5.078134156624799
+              ],
+              [
+                119.5224119127401,
+                -5.079243598134326
+              ],
+              [
+                119.52294602250942,
+                -5.079399309070467
+              ],
+              [
+                119.52325867213074,
+                -5.078270403929494
+              ],
+              [
+                119.52271804882781,
+                -5.078134156624799
+              ]
+            ]
           ],
-          "type": "Point"
+          "type": "Polygon"
         }
       },
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "RS Tajudin Chalid Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.51746621403117,
+            -5.111295445968167
           ],
           "type": "Point"
         }
