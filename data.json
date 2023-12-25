@@ -449,12 +449,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "RS Bersalin Budi Mulia Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.43480668241108,
+            -5.153587099341536
           ],
           "type": "Point"
         }
@@ -516,12 +516,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Taman Pakui Sayang"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.4369839136379,
+            -5.15194213194475
           ],
           "type": "Point"
         }
@@ -529,12 +529,134 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Pengadilan Tinggi Tata Usaha Negara Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            [
+              [
+                119.43801472985882,
+                -5.150071754200809
+              ],
+              [
+                119.43790097339712,
+                -5.1501850514174805
+              ],
+              [
+                119.43790097339712,
+                -5.150244163000053
+              ],
+              [
+                119.43795043272684,
+                -5.150315589489892
+              ],
+              [
+                119.43797516239283,
+                -5.150374701060329
+              ],
+              [
+                119.43829417508005,
+                -5.15045105349877
+              ],
+              [
+                119.43836341814387,
+                -5.150135791759766
+              ],
+              [
+                119.43801472985882,
+                -5.150071754200809
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Menara Phinisi UNM Makassar"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                119.43472483454212,
+                -5.167945840900444
+              ],
+              [
+                119.43474087436181,
+                -5.168221402991591
+              ],
+              [
+                119.43458448611523,
+                -5.1683012760395
+              ],
+              [
+                119.4344922571492,
+                -5.168457028453048
+              ],
+              [
+                119.43452433678863,
+                -5.168712622074182
+              ],
+              [
+                119.43469676485671,
+                -5.168668691928204
+              ],
+              [
+                119.4346767150812,
+                -5.168868374386577
+              ],
+              [
+                119.43475290422748,
+                -5.1688843489809955
+              ],
+              [
+                119.43474087436181,
+                -5.169103999607316
+              ],
+              [
+                119.43516191964068,
+                -5.169056075840402
+              ],
+              [
+                119.43515790968661,
+                -5.168868374386577
+              ],
+              [
+                119.43510979022568,
+                -5.168852399792641
+              ],
+              [
+                119.43512583004542,
+                -5.168652717328385
+              ],
+              [
+                119.43531429793319,
+                -5.168664698277638
+              ],
+              [
+                119.43523008887712,
+                -5.167873955118097
+              ],
+              [
+                119.43472483454212,
+                -5.167945840900444
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SMKN 2 Makassar"
+        },
+        "geometry": {
+          "coordinates": [
+            119.43005000761661,
+            -5.169472943725864
           ],
           "type": "Point"
         }
@@ -542,12 +664,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Claro Hotel Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.43217740576353,
+            -5.16888394516215
           ],
           "type": "Point"
         }
@@ -555,12 +677,160 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Badan Pemeriksa Keuangan Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            [
+              [
+                119.43548311067701,
+                -5.161103234761725
+              ],
+              [
+                119.43538611487202,
+                -5.161484278111686
+              ],
+              [
+                119.43556753297764,
+                -5.161543312975638
+              ],
+              [
+                119.43565554770203,
+                -5.161140802427298
+              ],
+              [
+                119.43548311067701,
+                -5.161103234761725
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kantorpos Regional 6 Makassar"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                119.43467748230682,
+                -5.1643090631559545
+              ],
+              [
+                119.43459977065868,
+                -5.164557821607858
+              ],
+              [
+                119.43450133590187,
+                -5.164533312822215
+              ],
+              [
+                119.43447543201836,
+                -5.164636507700138
+              ],
+              [
+                119.43470856696842,
+                -5.164695844747044
+              ],
+              [
+                119.43473058526695,
+                -5.164624898276756
+              ],
+              [
+                119.43475519395793,
+                -5.164637797635677
+              ],
+              [
+                119.43485751429489,
+                -5.164351431809649
+              ],
+              [
+                119.43467748230682,
+                -5.1643090631559545
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lapangan Karebosi Makassar"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                119.41074520726318,
+                -5.133070665837735
+              ],
+              [
+                119.41061145018972,
+                -5.13607644973473
+              ],
+              [
+                119.41385505922301,
+                -5.136034818475849
+              ],
+              [
+                119.41351230672262,
+                -5.133120623580112
+              ],
+              [
+                119.41074520726318,
+                -5.133070665837735
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Benteng Rotterdam Makassar"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                119.40512579366992,
+                -5.133265997405232
+              ],
+              [
+                119.40520116263565,
+                -5.134649061851988
+              ],
+              [
+                119.40606811062929,
+                -5.134632692770978
+              ],
+              [
+                119.40603524056411,
+                -5.133437748683193
+              ],
+              [
+                119.40512579366992,
+                -5.133265997405232
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kantorpos Cabang Utama Makassar"
+        },
+        "geometry": {
+          "coordinates": [
+            119.4067789258097,
+            -5.1345958623360985
           ],
           "type": "Point"
         }
@@ -568,12 +838,61 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Swiss Bell Hotel Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            [
+              [
+                119.4039526906526,
+                -5.13580648212718
+              ],
+              [
+                119.40405764925458,
+                -5.1363337131369065
+              ],
+              [
+                119.40442272265204,
+                -5.136233721083059
+              ],
+              [
+                119.40434514455626,
+                -5.135983740877705
+              ],
+              [
+                119.40460982276812,
+                -5.135942835015612
+              ],
+              [
+                119.40458244226414,
+                -5.135829207610058
+              ],
+              [
+                119.40484255705974,
+                -5.1357701213506886
+              ],
+              [
+                119.40483799364347,
+                -5.135647403718792
+              ],
+              [
+                119.4039526906526,
+                -5.13580648212718
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Masjid 99 Kubah Makassar"
+        },
+        "geometry": {
+          "coordinates": [
+            119.40407727329182,
+            -5.143757183525423
           ],
           "type": "Point"
         }
@@ -581,12 +900,49 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Pantai Losari Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            [
+              [
+                119.40745293509622,
+                -5.142902336240709
+              ],
+              [
+                119.40721380604839,
+                -5.143256816316054
+              ],
+              [
+                119.407197122627,
+                -5.1438106910392065
+              ],
+              [
+                119.40806466056586,
+                -5.144187325575857
+              ],
+              [
+                119.40758084133086,
+                -5.142896797488163
+              ],
+              [
+                119.40745293509622,
+                -5.142902336240709
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Twin Tower Centre Point of Indonesia Makassar"
+        },
+        "geometry": {
+          "coordinates": [
+            119.40074896010867,
+            -5.143801113430712
           ],
           "type": "Point"
         }
@@ -594,12 +950,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "RS Siloam Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.40711017962258,
+            -5.1499969756158634
           ],
           "type": "Point"
         }
@@ -607,12 +963,74 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Trans Studio Mall Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            [
+              [
+                119.39449558090934,
+                -5.157838396186719
+              ],
+              [
+                119.39340837186631,
+                -5.159977270092639
+              ],
+              [
+                119.39358286220755,
+                -5.160832817636475
+              ],
+              [
+                119.3938110418826,
+                -5.161688364026475
+              ],
+              [
+                119.3944553139089,
+                -5.161648260315644
+              ],
+              [
+                119.3945761149132,
+                -5.161434373812213
+              ],
+              [
+                119.39429424590122,
+                -5.1612605909760845
+              ],
+              [
+                119.3953814549443,
+                -5.158159227731929
+              ],
+              [
+                119.39449558090934,
+                -5.157838396186719
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pantai Akkarena Makassar"
+        },
+         "geometry": {
+        "coordinates": [
+          119.41541769431689,
+          -5.158500531560705
+        ],
+        "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Stadion Mattoangin Makassar"
+        },
+        "geometry": {
+          "coordinates": [
+            119.41541769431689,
+            -5.158500531560705
           ],
           "type": "Point"
         }
@@ -620,12 +1038,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "RSUD Labuang Baji Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.4187702435272,
+            -5.162536265227914
           ],
           "type": "Point"
         }
@@ -633,12 +1051,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Universitas Pepabri Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.42046949121942,
+            -5.1473533429063
           ],
           "type": "Point"
         }
@@ -646,12 +1064,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Universitas Bosowa Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.44366499930896,
+            -5.138644545152317
           ],
           "type": "Point"
         }
@@ -659,12 +1077,82 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "KPP Madya Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            [
+              [
+                119.43965518929872,
+                -5.132465075373489
+              ],
+              [
+                119.43937089086205,
+                -5.132416407495825
+              ],
+              [
+                119.43930425841472,
+                -5.132770355615165
+              ],
+              [
+                119.4398772974522,
+                -5.132867691313777
+              ],
+              [
+                119.4399794672031,
+                -5.1325225919521955
+              ],
+              [
+                119.43965518929872,
+                -5.132465075373489
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung Keuangan Negara II Makassar"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                119.43926154071255,
+                -5.132865316237968
+              ],
+              [
+                119.43914013369124,
+                -5.1334743953158295
+              ],
+              [
+                119.4397561619146,
+                -5.1335997938778775
+              ],
+              [
+                119.4398730723787,
+                -5.132990714918691
+              ],
+              [
+                119.43926154071255,
+                -5.132865316237968
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "DPRD Sulawesi Selatan"
+        },
+        "geometry": {
+          "coordinates": [
+            119.43741154337238,
+            -5.1352384981012165
           ],
           "type": "Point"
         }
@@ -672,12 +1160,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Pengadilan Tinggi Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.43812460739923,
+            -5.13550692082228
           ],
           "type": "Point"
         }
@@ -685,168 +1173,12 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Hotel Harper Perintis Makassar"
+          "name": "Pasar Pettarani Makassar"
         },
         "geometry": {
           "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hotel Harper Perintis Makassar"
-        },
-        "geometry": {
-          "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hotel Harper Perintis Makassar"
-        },
-        "geometry": {
-          "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hotel Harper Perintis Makassar"
-        },
-        "geometry": {
-          "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hotel Harper Perintis Makassar"
-        },
-        "geometry": {
-          "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hotel Harper Perintis Makassar"
-        },
-        "geometry": {
-          "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hotel Harper Perintis Makassar"
-        },
-        "geometry": {
-          "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hotel Harper Perintis Makassar"
-        },
-        "geometry": {
-          "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hotel Harper Perintis Makassar"
-        },
-        "geometry": {
-          "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hotel Harper Perintis Makassar"
-        },
-        "geometry": {
-          "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hotel Harper Perintis Makassar"
-        },
-        "geometry": {
-          "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hotel Harper Perintis Makassar"
-        },
-        "geometry": {
-          "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Hotel Harper Perintis Makassar"
-        },
-        "geometry": {
-          "coordinates": [
-            119.5114456858085,
-            -5.0937669099439375
+            119.43900012104751,
+            -5.1431827431210735
           ],
           "type": "Point"
         }
