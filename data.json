@@ -40,35 +40,100 @@
         "type": "Point"
         }
       },
+         {
+        "type": "Feature",
+        "properties": {
+          "name": "KFC Perintis Kemerdekaan Makassar"
+        },
+        "geometry": {
+        "coordinates": [
+          119.51245123008493,
+          -5.094382270122395
+        ],
+        "type": "Point"
+        }
+      },
+         {
+        "type": "Feature",
+        "properties": {
+          "name": "Polda Sulselbar"
+        },
+        "geometry": {
+        "coordinates": [
+          119.51378529919208,
+          -5.096248846724521
+        ],
+        "type": "Point"
+        }
+      },
+         {
+        "type": "Feature",
+        "properties": {
+          "name": "Polda Sulselbar"
+        },
+        "geometry": {
+        "coordinates": [
+          119.51378529919208,
+          -5.096248846724521
+        ],
+        "type": "Point"
+        }
+      },
+         {
+        "type": "Feature",
+        "properties": {
+          "name": "Polda Sulselbar"
+        },
+        "geometry": {
+        "coordinates": [
+          119.51378529919208,
+          -5.096248846724521
+        ],
+        "type": "Point"
+        }
+      },
+         {
+        "type": "Feature",
+        "properties": {
+          "name": "Polda Sulselbar"
+        },
+        "geometry": {
+        "coordinates": [
+          119.51378529919208,
+          -5.096248846724521
+        ],
+        "type": "Point"
+        }
+      },
         {
         "type": "Feature",
         "properties": {
-          "name": "Auditorium"
+          "name": "Balai Latihan Transmigrasi Makassar"
         },
-        "geometry": {
-          "coordinates": [
-            [
-              107.57602973411036,
-              -6.8732794028977935
-            ],
-            [
-              107.57596954488866,
-              -6.87365843069189
-            ],
-            [
-              107.57622233962314,
-              -6.8737028213150495
-            ],
-            [
-              107.57628080915379,
-              -6.873320378889417
-            ],
-            [
-              107.57602973411036,
-              -6.873281110230849
-            ]
+         "geometry": {
+        "coordinates": [
+          [
+            119.5180280913741,
+            -5.095502284490934
           ],
-          "type": "LineString"
+          [
+            119.51851228103845,
+            -5.095803707024828
+          ],
+          [
+            119.51812223936474,
+            -5.096460137830704
+          ],
+          [
+            119.51768512369574,
+            -5.096259189695829
+          ],
+          [
+            119.51800119194905,
+            -5.095508982770866
+          ]
+        ],
+        "type": "LineString"
         }
       } 
     ]
